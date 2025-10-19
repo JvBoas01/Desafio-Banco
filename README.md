@@ -135,6 +135,7 @@ Informe o endereço (logradouro, nro - bairro - cidade/sigla estado): Rua X, 123
 **João Victor**  
 📧 Email: joaoboas@proton.me
 💼 GitHub: github.com/JvBoas01
+💼 Linkedin linkedin.com/in/joaoboas
 
 ---
 
