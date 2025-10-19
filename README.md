@@ -78,13 +78,13 @@ Ao executar o programa, o usuário verá o seguinte menu interativo no terminal:
 ### Passos
 1. Clone ou baixe o projeto:
    ```bash
-   git clone https://github.com/JvBoas01/BancoV2.0.git
-   cd BancoV2.0
+   git clone https://github.com/JvBoas01/Desafio-Banco.git
+   cd Desafio-Banco
    ```
 
 2. Execute o script:
    ```bash
-   python BancoV2.0.py
+   python BancoV2.1.py
    ```
 
 3. Interaja pelo menu no terminal.
